@@ -1,0 +1,64 @@
+
+body{
+
+    background-image: url(Bilder/civ_78.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+.menu{
+    
+background-color:seagreen;
+padding: 30px;
+font-size: 28px;
+text-align: right;
+position: relative;
+top: 35px;
+
+}
+
+
+
+.logo{
+
+position: relative;
+left: 30px;top: -110px;
+
+}
+
+.text1{
+    background-color: seagreen;
+    
+    padding: 10px;
+    text-align:center;
+    position: relative;
+    top: -40px; right: -0px;
+}
+
+.text2{
+    background-color: seagreen;
+    padding: 10px;
+     text-align: center;
+     position: relative;
+     top: -40px; right: -0px;
+}
+
+.text3{
+    background-color: seagreen;
+    padding: 10px;
+      text-align: center;
+      position: relative;
+      top: -40px; right: -0px;
+}
+
+.text4{
+    background-color: seagreen;
+    padding: 10px;
+      text-align: center;
+      position: relative;
+      top: -40px; right:-0px;
+}
+
+

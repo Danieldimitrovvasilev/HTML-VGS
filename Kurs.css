@@ -1,0 +1,54 @@
+
+
+.menu{
+
+     text-align: right;
+     font-size: 28px;
+     position: relative;
+     top: 30px; left: -30px;
+
+}
+
+.Logg-inn{
+
+       width: 400px;
+       height: 300px;
+       margin: auto;
+       background-color: white;
+}
+
+h1{
+    text-align: center;
+}
+
+form{
+     width:800px;
+     margin-left: 70px;
+    
+}
+
+form label{
+        display:flex;
+        margin-top: 20px;
+        font-size: 18px;    
+}
+
+form input{
+        width: 300px;
+        padding: 7px;
+        border: solid seagreen; 
+       
+        
+}
+
+input[type="button"]{
+    width: 320px;
+    height: 35px;
+    margin-top: 10px;
+    position: relative;
+    top: 75px;left: -325px;
+    border: none;
+    background-color:seagreen;
+    color: white;
+    font-size: 18px;
+}
